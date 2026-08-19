@@ -1,0 +1,3 @@
+linux is operating system 
+git is version control system
+
